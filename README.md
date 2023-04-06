@@ -6,6 +6,12 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="file:///D:/AlmaX/EDA%20on%20Hotel%20Bookings/Presentation/Tableau.PNG" alt="project-screenshot" width="200" height="150/">
+<img align ="center" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/Tableau.PNG" alt="project-screenshot" width="1200" height="500/">
 
-<img src="https://drive.google.com/file/d/1TUY6VpED2HK7VTSFXUAnqae0tdRw_BCi/view?usp=sharing" alt="project-screenshot" width="100" height="70/">
+<img align = "left" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/15.PNG" alt="project-screenshot" width="475" height="300/">
+
+<img align = "right" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/7.PNG" alt="project-screenshot" width="475" height="300/">
+
+<img align = "left" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/13.PNG" alt="project-screenshot" width="475" height="300/">
+
+<img align = "right" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/9.PNG" alt="project-screenshot" width="475" height="300/">
