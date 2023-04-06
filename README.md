@@ -6,12 +6,12 @@
 
 <h2>Project Screenshots:</h2>
 
-<img align ="center" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/Tableau.PNG" alt="project-screenshot" width="1200" height="500/">
+<img align ="center" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/Tableau.PNG" alt="project-screenshot" width="1000" height="500/">
 
-<img align = "left" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/15.PNG" alt="project-screenshot" width="475" height="300/">
+<img align = "left" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/15.PNG" alt="project-screenshot" width="450" height="300/">
 
-<img align = "right" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/7.PNG" alt="project-screenshot" width="475" height="300/">
+<img align = "right" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/7.PNG" alt="project-screenshot" width="450" height="300/">
 
-<img align = "left" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/13.PNG" alt="project-screenshot" width="475" height="300/">
+<img align = "left" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/13.PNG" alt="project-screenshot" width="450" height="300/">
 
-<img align = "right" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/9.PNG" alt="project-screenshot" width="475" height="300/">
+<img align = "right" src="https://github.com/RanojoyBiswas/Hotel-Booking-Analysis-EDA-/blob/main/Images/9.PNG" alt="project-screenshot" width="450" height="300/">
